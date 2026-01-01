@@ -30,5 +30,12 @@ break
 if
 else
 final
+synchronized
+try
+catch
+finally
+true
+false
+
 
 
