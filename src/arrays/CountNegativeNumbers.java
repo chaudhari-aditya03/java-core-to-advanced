@@ -11,7 +11,6 @@ public class CountNegativeNumbers {
                 count++;
             }
         }
-        System.out.println("Negative Numbers in Given Arr" +
-                "ay is "+count);
+        System.out.println("Negative Numbers in Given Array is "+count);
     }
 }
