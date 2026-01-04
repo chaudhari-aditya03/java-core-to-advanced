@@ -1,6 +1,6 @@
 package practice.patterns;
 
-public class SquarePattern {
+public class Square0Pattern {
     public static void main(String[] args)
     {
         for(int i = 0;i<4;i++)
