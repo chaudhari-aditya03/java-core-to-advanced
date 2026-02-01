@@ -9,7 +9,8 @@ public class CountNegativeNumbers
         System.out.println("0 is non positive , non negative number");
         int count =0;
         for(int i=0;i<arr.length;i++){
-            if(arr[i]<0){
+            if(arr[i]<0)
+            {
                 count++;
             }
         }
