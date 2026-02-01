@@ -3,7 +3,7 @@ package arrays;
 public class ArrayDeclarationAndInitilization {
     public static void main(String[] args)
     {
-        int [] arr; //Declaration
+        int [] arr;
         arr = new int [10];//Memory Allocation
         arr[0] = 1;//Initilization
         arr[1] = 2;
