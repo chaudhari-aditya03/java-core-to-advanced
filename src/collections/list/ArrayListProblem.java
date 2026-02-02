@@ -31,5 +31,6 @@ public class ArrayListProblem {
             }
             a1.add(num);
         }
+
     }
 }
