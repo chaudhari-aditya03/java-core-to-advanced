@@ -4,4 +4,5 @@ public class ArrayListDemo1 {
     class aditya{
 
     }
+
 }
