@@ -6,7 +6,7 @@ This repository contains my complete Java learning journey:
 - Collections
 - Multithreading
 - JDBC
-- Servlets & JSP (later)
+- Servlets & JSP 
 
 ## Structure
 Each package represents one Java concept with examples and notes.

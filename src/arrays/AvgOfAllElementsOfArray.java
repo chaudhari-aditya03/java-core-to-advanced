@@ -2,7 +2,8 @@ package arrays;
 
 import java.util.Scanner;
 
-public class AvgOfAllElementsOfArray {
+public class AvgOfAllElementsOfArray
+    {
     public static void main(String[] args)
     {
         Scanner sc =  new Scanner(System.in);
@@ -11,8 +12,7 @@ public class AvgOfAllElementsOfArray {
         int [] arr = new int[num];
         System.out.println("Enter the elements in the array:");
         for(int i=0;i<num;i++)
-        {
-            arr[i]=sc.nextInt();
+        {   arr[i]=sc.nextInt();
         }
         int sum =0;
         for(int i =0;i<num;i++)
