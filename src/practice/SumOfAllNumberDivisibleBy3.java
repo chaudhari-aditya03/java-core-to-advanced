@@ -10,8 +10,7 @@ public class SumOfAllNumberDivisibleBy3 {
         int num = sc.nextInt();
         int sum = 0;
         for(int i =1;i<=num;i++)
-        {
-            if(i%3==0)
+        {if(i%3==0)
             {
                 sum = sum+i;
             }
