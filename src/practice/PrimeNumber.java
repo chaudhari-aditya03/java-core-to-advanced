@@ -1,6 +1,6 @@
 package practice;
 
-import java.util.Scanner;
+import java.util.Scanner
 
 public class PrimeNumber {
     static boolean isPrime(int n)
