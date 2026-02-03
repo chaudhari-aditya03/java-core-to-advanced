@@ -13,7 +13,7 @@ public class SumOfAllNumberDivisibleBy3
         for(int i =1;i<=num;i++)
         {if(i%3==0)
             {
-                sum = sum+i
+                sum = sum+i;
             }
         }
         System.out.println("Total Sum of Numbers Divisible by 3 is : "+sum);
