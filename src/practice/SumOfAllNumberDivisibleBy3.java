@@ -2,7 +2,8 @@ package practice;
 
 import java.util.Scanner;
 
-public class SumOfAllNumberDivisibleBy3 {
+public class SumOfAllNumberDivisibleBy3 
+{
     public static void main(String[] args)
     {
         Scanner sc=new Scanner(System.in);
