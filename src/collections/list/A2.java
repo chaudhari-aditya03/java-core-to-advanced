@@ -10,5 +10,7 @@ public class A2 {
         list.add(2);
         list.add(3);
         System.out.println(list);
+        list.removeFirst();
+        System.out.println(list);
     }
 }
