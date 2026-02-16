@@ -1,4 +1,4 @@
 package basic;
 
-public class BubbleSort {
+ class BubbleSort {
 }
