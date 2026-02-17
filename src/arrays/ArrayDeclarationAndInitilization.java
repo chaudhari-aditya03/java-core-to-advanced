@@ -1,4 +1,4 @@
-package arrays;
+
 
 public class ArrayDeclarationAndInitilization {
     public static void main(String[] args)
